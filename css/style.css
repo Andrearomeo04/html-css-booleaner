@@ -2,9 +2,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+} 
 
-.container  {
+.backhead  {
     background-color: rgb(86, 160, 245);
     height: 170px;
     background-image: url(../img/pattern.png);
@@ -27,4 +27,16 @@
 
 #booleaner {
     color: skyblue;
+}
+
+.main-image {
+    height: 500;
+}
+
+.container {
+    padding: 10px;
+} 
+
+#highlighter {
+    background-color: yellow;
 }
