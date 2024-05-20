@@ -4,6 +4,7 @@
     box-sizing: border-box;
 } 
 
+/* header and logo section  */
 .backhead  {
     background-color: rgb(86, 160, 245);
     height: 170px;
@@ -12,9 +13,9 @@
 }
 
 .logo {
-    width: 40%;
+    width: 20%;
     margin-left: 10px;
-    padding-top: 35px;
+    padding-top: 70px;
 }
 
 .title {
@@ -25,39 +26,39 @@
     color: gray;
 }
 
+
 #booleaner {
     color: skyblue;
 }
 
-.main-image {
-    height: 500;
-}
+/* header end */
 
+/* body section  */
 .container {
     padding: 10px;
 } 
 
-#highlighter {
+/* highlighter  */
+span {
     background-color: yellow;
 } 
 
 ul {
-    list-style-type: disc;
     margin-left: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
 } 
 
-table {
+/* table section  */
+ table {
     width: 100%;
     border-collapse: collapse;
-}
+} 
 
 td {
-    padding: 10px 300px 10px 10px; 
+    padding: 10px 200px 10px 10px; 
     text-align: left;
-}
-
+}  
 thead {
     background-color: rgb(0, 195, 255);
     color: white;
@@ -70,3 +71,9 @@ tbody {
 #white-row {
     background-color: white;
 }
+/* table section end  */
+
+#secp {                      
+    margin-top: 20px;           /*  second paragraph */
+}
+/* body end  */
