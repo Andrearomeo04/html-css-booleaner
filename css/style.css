@@ -12,10 +12,10 @@
 
 }
 
-.logo {
-    width: 20%;
-    margin-left: 10px;
-    padding-top: 70px;
+#logo {
+width: 260px;
+height: 260px;
+
 }
 
 .title {
@@ -35,7 +35,8 @@
 
 /* body section  */
 .container {
-    padding: 10px;
+    width: 1500px;
+    margin: 0 auto;
 } 
 
 /* highlighter  */
