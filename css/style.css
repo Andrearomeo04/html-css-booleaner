@@ -4,15 +4,27 @@
     box-sizing: border-box;
 }
 
-header  {
+.container  {
     background-color: rgb(86, 160, 245);
-    height: 150px;
+    height: 170px;
     background-image: url(../img/pattern.png);
 
 }
 
 .logo {
-    width: 50%;
+    width: 40%;
     margin-left: 10px;
-    padding-top: 15px;
+    padding-top: 35px;
+}
+
+.title {
+    font-size: 70px;
+}
+
+.info {
+    color: gray;
+}
+
+#booleaner {
+    color: skyblue;
 }
